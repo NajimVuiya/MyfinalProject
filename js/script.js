@@ -1,5 +1,7 @@
 'use strict';
 
+const boxOne = document.querySelector('.box-1');
+
 let numberOne = 40;
 let numberTwo = 400;
 let numberThree = 4000;
