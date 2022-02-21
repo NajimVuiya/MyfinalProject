@@ -16,5 +16,5 @@ if(numberOne !== numberOne || numberThree >= numberTwo)
 {
 	console.log('I will be failer person.');
 }
-
+// This is comment updated not script file
 
